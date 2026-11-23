@@ -1,3 +1,4 @@
+src="https://github.com/user-attachments/assets/1a0fc7ab-282d-4ca1-bf7a-a9cfcdf31f8b" />
 # 🎯 HTF Order Block + Golden Pocket Reversal & Zone Fill Engine
 **Pine Script™ v6 Multi-Timeframe (`1H` / `4H` / `1D`) Reversal Zone Tracker for `15m` / `5m` LTF Execution — Separating Buy (Demand) & Sell (Supply) OB/GP Zones with Fill % & Break Risk Table**
 
@@ -5,7 +6,7 @@
 
 ### 1. Live Chart Overview & HTF Reversal Strategy Workflow
 
-[මෙතනට ඔයාගේ ෆොටෝ එක Drag & Drop කරන්න]
+<img width="2976" height="1438" alt="Gemini_Generated_Image_uquwsuquwsuquwsu" 
 
 Built in **Pine Script™ v6** (`overlay=true`), this engine identifies high-impact **Higher Timeframe (HTF) reversal zones** — primarily **Order Blocks (`OB`)** and **Golden Pockets (`GP`)** — so traders can spot strong turning points and execute entries on Lower Timeframes (`15m` / `5m`).
 
